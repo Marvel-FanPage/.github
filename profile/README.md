@@ -29,9 +29,9 @@
 
 ## 🏛️ Ecosystem Architecture
 
-| Repository | Purpose | Tech Stack | Status |
+| Repository | Purpose | Status |
 | :--- | :--- | :--- | :--- |
-| **[`Marvel-Web`](https://github.com/Marvel-FanPage/Marvel-Web)** | Main interactive web application deployed on Cloudflare Pages | React 19, TypeScript, Vite, CSS Tokens | 🚀 Live |
+| **[`Marvel-Web`](https://github.com/Marvel-FanPage/Marvel-Web)** | Main interactive web application  | 🚀 Live |
 
 ---
 
