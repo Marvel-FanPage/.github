@@ -30,7 +30,7 @@
 ## 🏛️ Ecosystem Architecture
 
 | Repository | Purpose | Status |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- |  :--- |
 | **[`Marvel-Web`](https://github.com/Marvel-FanPage/Marvel-Web)** | Main interactive web application  | 🚀 Live |
 
 ---
